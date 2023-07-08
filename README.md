@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here. Let's embark on a j
 
 ## About Me 🚀
 
-I am a passionate [Your Role/Title] with a keen interest in [Your Areas of Interest]. Currently studying [Your Field/Area of Study] at [Your University/School], I am constantly expanding my knowledge and honing my skills in [Specific Technologies/Frameworks/Tools].
+I am a passionate [Your Role/Title] with a keen interest in [Your Areas of Interest]. Currently studying [Your Field/Area of Study] at DAVV, I am constantly expanding my knowledge and honing my skills in [Specific Technologies/Frameworks/Tools].
 
 ## What I'm Working On 💻
 
